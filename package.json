@@ -1,0 +1,32 @@
+{
+  "name": "podcast-downloader",
+  "version": "1.0.0",
+  "description": "A really simple itune podcast downloader",
+  "main": "downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edouard FERRARI",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "mkdirp": "^0.5.1",
+    "request": "^2.69.0",
+    "xmlreader": "^0.2.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didouard/podcast-downloader.git"
+  },
+  "keywords": [
+    "simple",
+    "itune",
+    "podcast",
+    "downloader"
+  ],
+  "bugs": {
+    "url": "https://github.com/didouard/podcast-downloader/issues"
+  },
+  "homepage": "https://github.com/didouard/podcast-downloader#readme"
+}
